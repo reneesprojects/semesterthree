@@ -1,2 +1,2 @@
 # semesterthree
-Third times a charm!
+third time's a charm!
