@@ -1,4 +1,4 @@
-☕️ *Both projects are fully Java-based! From console logic to GUI interfaces, everything was built using Java — with a touch of NetBeans to bring it to life.*
+☕️ *Both projects are fully Java-based! From console logic to GUI interfaces, everything was built using Java - with a touch of NetBeans to bring it to life.*
 
 # 1. Credit Card Validation System 💳
 A simple Java program that uses the **Luhn algorithm** to validate credit card numbers.
